@@ -1,0 +1,13 @@
+.down{
+	padding-bottom: 20px;
+	border-bottom: 1px solid #838C95;
+}
+p{
+	font-size: 20px;
+}
+.anime{
+	transition: all linear 500ms;
+	-o-transition: all linear 500ms;
+	-moz-transition: all linear 500ms;
+	-webkit-transition: all linear 500ms;
+}
